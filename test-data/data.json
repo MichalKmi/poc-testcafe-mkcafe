@@ -1,0 +1,25 @@
+[
+  {
+    "menu_1": {
+      "title": "KAWY",
+      "expandedLeftListInner": "KAWY MIELONE\nKAWY ZIARNISTE\nKAWY ROZPUSZCZALNE\nWSZYSTKIE KAWY"
+    },
+    "menu_2": {
+      "title": "SŁODKOŚCI",
+      "expandedLeftListInner": "MIODY\nSYROPY DO KAWY\nWSZYSTKIE SŁODKOŚCI"
+    },
+    "menu_3": {
+      "title": "AKCESORIA",
+      "expandedLeftListInner": "MŁYNKI\nURZĄDZANIA DO PARZENIA\nPORCELANA\nDO EKSPRESÓW\nSPIENIACZE\nEKSPRESY\nWSZYSTKIE AKCESORIA"
+    },
+    "menu_4": {
+      "title": "PRZEPISY\nI PORADY"
+    },
+    "menu_5": {
+      "title": "VADEMECUM\nMK CAFE"
+    },
+    "menu_6": {
+      "title": "KONTAKT"
+    }
+  }
+]
